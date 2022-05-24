@@ -1,3 +1,5 @@
 This is a text file.
 
 This will hopefully be the first of many things I create.
+
+This sentence is an addition that was made in order to practice pushing git commits to the main repository.
